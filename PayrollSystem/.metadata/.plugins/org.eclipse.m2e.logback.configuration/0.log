@@ -1,0 +1,2 @@
+2017-08-21 20:26:51,940 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-21 20:26:52,153 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
